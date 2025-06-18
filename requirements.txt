@@ -1,0 +1,20 @@
+# Asyncio 学习项目依赖
+
+# 基础包（Python 3.7+ 内置）
+# asyncio - 异步编程库（内置）
+# aiofiles - 异步文件操作
+aiofiles>=0.8.0
+
+# 网络请求
+aiohttp>=3.8.0
+requests>=2.28.0
+
+# 数据库（可选）
+aiosqlite>=0.17.0
+
+# 工具包
+python-dateutil>=2.8.0
+
+# 开发工具（可选）
+pytest>=7.0.0
+pytest-asyncio>=0.21.0 
